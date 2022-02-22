@@ -2,4 +2,4 @@
 
   hola
   
-![hola](/FirstDay/asset/images/_DSC2633.JPG)
+![hola](/asset/images/_DSC2633.JPG)
